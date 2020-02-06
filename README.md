@@ -5,7 +5,7 @@ Content:
 - main.cpp:
     random  integer  matrix multiplication implemented in c++
     
-- Lab5_AvendañoCasadiego_BernalBuitrago_DuqueGarcia.ipynb:
+- Colab Notebook:
     random integer matrix multiplication implemented in native python, numpy an fortran.
 
 
