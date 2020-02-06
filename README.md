@@ -2,10 +2,10 @@
 Repository for the code in the laboratory 5 Overleaf report of Algorithms class. 
 
 Content: 
-main.cpp : 
+main.cpp:
     random  integer  matrix multiplication implemented in c++
     
-Lab5_AvendañoCasadiego_BernalBuitrago_DuqueGarcia.ipynb : 
+Lab5_AvendañoCasadiego_BernalBuitrago_DuqueGarcia.ipynb:
     random integer matrix multiplication implemented in native python, numpy an fortran.
 
 
